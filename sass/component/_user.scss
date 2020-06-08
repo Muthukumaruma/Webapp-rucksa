@@ -1,0 +1,22 @@
+.add-user {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+.popup-modal {
+  .check {
+    position: absolute;
+    right: 0pc;
+    top: 15px;
+    &.status {
+      top: 10px;
+      i {
+        font-size: 29px;
+        color: red;
+        &.success {
+          color: green;
+        }
+      }
+    }
+  }
+}
