@@ -19,8 +19,7 @@ class RucksaApp extends App {
 
     if (process.browser) {
       this.onPageStart();
-    } else {
-    }
+    } 
   }
 
   onPageStart = () => {
