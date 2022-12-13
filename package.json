@@ -21,7 +21,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "bootstrap-scss": "^4.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "next": "^9.2.1",
     "node-sass": "^4.13.1",
